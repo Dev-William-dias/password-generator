@@ -1,14 +1,38 @@
-# Gerador de Senhas
+# 🔐 Gerador-de-Senhas
 
-## Recomendação de Uso
-- **Use senhas com 8 ou mais caracteres** para aumentar a segurança.
-- Evite utilizar apenas letras ou números, a menos que seja estritamente necessário.
-- Sempre utilize combinações de letras maiúsculas, minúsculas, números e caracteres especiais para criar senhas mais fortes.
+Aplicação desktop em JavaFX para geração de senhas seguras e personalizadas, permitindo escolher o tamanho e os tipos de caracteres desejados (maiúsculas, minúsculas, números e símbolos).
 
 <img src="Capturar.png" height="400" alt="Imagem da aplicação em execução" />
 
-## Como Executar o Projeto
+---
+## 🚀 Funcionalidades (Implementadas)
 
-1. **Crie um novo projeto Java**: Utilize a IDE de sua preferência.
-2. **Substitua a pasta `src`**: No diretório do seu projeto, substitua a pasta `src` pela pasta `src` fornecida neste repositório.
-3. **Compile e execute o código**: A partir de sua IDE, compile o projeto e execute para começar a gerar senhas.
+- Geração de senhas aleatórias seguras
+
+- Escolha do comprimento da senha
+
+- Opção para incluir letras maiúsculas, minúsculas, números e caracteres especiais
+
+- Copiar senha gerada para a área de transferência
+
+- Interface simples e intuitiva desenvolvida com JavaFX
+
+---
+
+## 🧠 Recomendações de Uso
+
+- Utilize senhas com 8 ou mais caracteres para maior segurança.
+
+- Evite usar apenas letras ou números.
+
+- Prefira combinações de maiúsculas, minúsculas, números e caracteres especiais para criar senhas mais fortes.
+
+---
+
+⚙️ Como Executar o Projeto
+
+- Crie um novo projeto Java na sua IDE preferida.
+
+- Substitua a pasta src pela deste repositório.
+
+- Compile e execute o projeto para começar a gerar senhas seguras.

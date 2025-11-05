@@ -1,4 +1,4 @@
-# 🔐 Gerador-de-Senhas
+# 🔐 password-generator
 
 Aplicação desktop em JavaFX para geração de senhas seguras e personalizadas, permitindo escolher o tamanho e os tipos de caracteres desejados (maiúsculas, minúsculas, números e símbolos).
 
